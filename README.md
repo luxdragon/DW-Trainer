@@ -1,5 +1,5 @@
 # DW-Trainer
-This application helps German lerners revise complex German vocabulary (B2, C1 and C2) from my dictionary of words, which I collected from German books that I've read. The words mostly have their explanations from Duden in German, but some of them have a pure English or Slovene translation. DW stands for Deutscher Wortschatz, which is German for German vocabulary.
+This application helps German learners revise complex German vocabulary (B2, C1 and C2) from my dictionary of words, which I collected from German books that I've read. The words mostly have their explanations from Duden in German, but some of them have a pure English or Slovene translation. DW stands for Deutscher Wortschatz, which is German for German vocabulary.
 
 ## What DW-Trainer does
 It will select a word from the dictionary and ask you about its meaning. You should come up with a definition or explain the meaning and click on next. Then the solution is displayed and a new word selected.
